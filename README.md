@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aesu3d/aesu3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✦ hi, i'm aesu ✦
 
-Here are some ideas to get you started:
+3D artist making cute & gothic assets for VRChat ♡
+and free little Blender tools when an idea won't leave me alone >->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Shop](https://img.shields.io/badge/shop-aesu3d.com-8c7ba6?style=flat-square)](https://aesu3d.com)
+[![Twitter](https://img.shields.io/badge/twitter-@aesu3d-8c7ba6?style=flat-square)](https://x.com/aesu3d)
+[![Discord](https://img.shields.io/badge/discord-join%20the%20coven-8c7ba6?style=flat-square)](https://discord.com/invite/qPVGaPvUwu)
+
+</div>
+
+---
+
+## 🦇 free blender tools
+
+| | |
+|---|---|
+| **[Weight Bucket](https://github.com/aesu3d/Weight-Bucket-Tool)** | Bucket-fill weights on whole mesh islands with one click |
+| **[Bone Chain Renamer](https://github.com/aesu3d/Bone-Chain-Renamer)** | Rename messy bone chains with numbers, branches & L/R sides |
+| **[Blender RPC](https://github.com/aesu3d/REPO-NAME)** | Cute & customizable Discord Rich Presence for Blender ♡ |
+
+---
+
+<div align="center">
+
+made with love (and too little sleep) ♡
+
+</div>
