@@ -1,12 +1,12 @@
 <div align="center">
 
-# ✦ hi, i'm aesu ✦
+# ✦ hello ^-^ ✦
 
 3D artist making cute & gothic assets for VRChat ♡
-and free little Blender tools when an idea won't leave me alone >->
+and free little Blender tools when i need a specific one >->
 
-[![Shop](https://img.shields.io/badge/shop-aesu3d.com-8c7ba6?style=flat-square)](https://aesu3d.com)
-[![Twitter](https://img.shields.io/badge/twitter-@aesu3d-8c7ba6?style=flat-square)](https://x.com/aesu3d)
+[![Site](https://img.shields.io/badge/shop-aesu3d.com-8c7ba6?style=flat-square)](https://aesu3d.com)
+[![Linktree](https://img.shields.io/badge/linktree-all%20my%20links-8c7ba6?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/aesu)
 [![Discord](https://img.shields.io/badge/discord-join%20the%20coven-8c7ba6?style=flat-square)](https://discord.com/invite/qPVGaPvUwu)
 
 </div>
