@@ -21,7 +21,7 @@ and free little Blender tools when i need a specific one >->
 |:---:|:---:|
 | **[Weight Bucket](https://github.com/aesu3d/Weight-Bucket-Tool)** | Bucket-fill weights on whole mesh islands with one click |
 | **[Bone Chain Renamer](https://github.com/aesu3d/Bone-Chain-Renamer)** | Rename messy bone chains with numbers, branches & L/R sides |
-| **[Blender RPC](https://github.com/aesu3d/REPO-NAME)** | Cute & customizable Discord Rich Presence for Blender ♡ |
+| **[Blender RPC](https://github.com/aesu3d/Cute-Discord-RPC)** | Cute & customizable Discord Rich Presence for Blender ♡ |
 
 </div>
 
